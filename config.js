@@ -5,8 +5,8 @@ module.exports = {
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://insanexpan:Yanis0673654171@discordbot.qyb04p1.mongodb.net/?retryWrites=true&w=majority&appName=Discordbot",
-  spotifyClientId : "b55af1d940aca52ea8fe02f0d93ba568",
-  spotifyClientSecret : "e8199f4024fe49c5b22ea9a3dd0c4789",
+  spotifyClientId : "85aab1d51a174aad9eed6d7989f530e6",
+  spotifyClientSecret : "b2ad05aa725e434c88776a1be8eab6c2",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "musix",
-      password: "wwweasycodero",
-      host: "lavalink-v2.pericsq.ro",
-      port:  6677,
+      name: "Main Node",
+      password: "youshallnotpass",
+      host: "lavalink.jirayu.net",
+      port:  13592,
       secure: false
     }
   ]
