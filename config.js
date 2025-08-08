@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "",
-      password: "youshallnotpass",
-      host: "gh46.glacierhosting.org",
-      port:  25583,
+      name: "musix",
+      password: "wwweasycodero",
+      host: "lavalink-v2.pericsq.ro",
+      port:  6677,
       secure: false
     }
   ]
